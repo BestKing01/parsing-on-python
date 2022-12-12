@@ -1,5 +1,5 @@
 # parsing-on-python
-This is the code that parses people from the iitu university: "https://istu.edu.kz/ru/people /"
+This is the code that parses people from the iitu university: "https://iitu.edu.kz/ru/people /"
 
 As you can see there are 2 files "example.py " and "import.py "
 
